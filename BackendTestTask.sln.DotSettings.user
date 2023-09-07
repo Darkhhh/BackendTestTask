@@ -1,0 +1,9 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f434e1e9_002Dbd3e_002D40fd_002D9179_002D46ea2b3fe070/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="TestMethod1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::30D90DE4-1158-4FF9-A4DD-F1B292AE628D::net7.0::BackendTestTask.Tests.UnitTest1&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::30D90DE4-1158-4FF9-A4DD-F1B292AE628D::net7.0::BackendTestTask.Tests.ReportRequestUnitTests&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::30D90DE4-1158-4FF9-A4DD-F1B292AE628D::net7.0::BackendTestTask.Tests.CreatingDatabaseUnitTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::30D90DE4-1158-4FF9-A4DD-F1B292AE628D::net7.0::BackendTestTask.Tests.InfoControllerUnitTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
